@@ -1,2 +1,2 @@
 ## 🐱‍🏍GENEL KURALLAR 🐱‍🏍
-- 1. kural Repoyu kimse silmesin 🤣🧨
+- 1'nci kural Repoyu kimse silmesin 🤣🧨
