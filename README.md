@@ -1,3 +1,1 @@
 # Notes-FullStack-Moria
-
-## erişim
