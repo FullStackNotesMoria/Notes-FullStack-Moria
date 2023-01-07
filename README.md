@@ -1,3 +1,2 @@
-# Notes-FullStack-Moria
-
-merhaba
+## 🐱‍🏍GENEL KURALLAR 🐱‍🏍
+- 1. kural Repoyu kimse silmesin 🤣🧨
